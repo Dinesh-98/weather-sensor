@@ -44,7 +44,8 @@ http://localhost:5000/sensor/sensor-name/metric/metric-name/stat/statistics
 2. Get weather details with time duration:
 http://localhost:5000/sensor/sensor-name/metric/metric-name/stat/statistics/time/duration
 
-sensor-name: specify which sensor you will be querying (1 or 2 or 3)
-metric-name: specify which metric you will be using (temperature or pressure or humidity or windspeed)
-statistics: specify which statistics you need to query (max or min or sum or any influxdb related stats)
+sensor-name: specify which sensor you will be querying (1 or 2 or 3) 
+<br>
+metric-name: specify which metric you will be using (temperature or pressure or humidity or windspeed) <br>
+statistics: specify which statistics you need to query (max or min or sum or any influxdb related stats) <br>
 duration: Time Intervals used for querying (1d - 1 Day, 1w - 1 Week, 1m - 1 Month)
