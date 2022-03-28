@@ -1,7 +1,7 @@
 # Weather-sensor
 Querying sensor data using Flask (Rest API)
 
-# Weather JSON Data: (Manually created json data)
+### Weather JSON Data: (Manually created json data)
 JSON Data consists of 3 sensor. Each sensor has info of humidity, pressure, temperature
 and windspeed for the month of March (Mar 1st - Mar 31st)
 
