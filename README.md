@@ -9,9 +9,9 @@ and windspeed for the month of March (Mar 1st - Mar 31st)
 Goal is to query various sensors to obtain weather info for a particular time duration
 
 ### Tools Used:
-Python 3.7.3
-Influx 1.8.10 (Used influxdb as it's a time series database)
-pip 18.1
+1. Python 3.7.3
+2. Influx 1.8.10 (Used influxdb as it's a time series database)
+3. pip 18.1
 
 ### Installing InfluxDB: (for Linux)
 You can install influxdb in your local from : [HERE](https://devopslifecycle.com/lessons/16/getting-started-with-influxdb#measurement-command-cheat-sheet)
