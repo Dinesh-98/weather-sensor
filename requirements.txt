@@ -1,0 +1,4 @@
+influxdb
+flask
+pytest
+pytest-cov
